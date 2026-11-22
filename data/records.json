@@ -3277,5 +3277,3357 @@
     20,
     27,
     48
+  ],
+  "pilot": [
+    {
+      "week": 1,
+      "request": "Y1-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 1,
+      "request": "Y1-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        7,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 1,
+      "request": "Y1-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 1,
+      "request": "Y1-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 2,
+      "request": "Y2-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        0,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        1
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 2,
+      "request": "Y2-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        2,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 2,
+      "request": "Y2-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        6,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 3,
+      "request": "Y3-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        2
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 3,
+      "request": "Y3-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 3,
+      "request": "Y3-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        6,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 4,
+      "request": "Y4-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        7,
+        6
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        6
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        6
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        7
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        6,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 4,
+      "request": "Y4-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        6
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 4,
+      "request": "Y4-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        5,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        2,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 5,
+      "request": "Y5-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        0,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        3
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        0
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 5,
+      "request": "Y5-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        2,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 5,
+      "request": "Y5-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        0,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 6,
+      "request": "Y6-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        6,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 6,
+      "request": "Y6-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        6,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 6,
+      "request": "Y6-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        3,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 7,
+      "request": "Y7-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 7,
+      "request": "Y7-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 7,
+      "request": "Y7-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 8,
+      "request": "Y8-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        0,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 8,
+      "request": "Y8-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 8,
+      "request": "Y8-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 9,
+      "request": "Y9-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 9,
+      "request": "Y9-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 9,
+      "request": "Y9-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        2,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 10,
+      "request": "Y10-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        3
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        0,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 10,
+      "request": "Y10-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 10,
+      "request": "Y10-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        1,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 11,
+      "request": "Y11-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        6
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        7,
+        7
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        8,
+        6
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 11,
+      "request": "Y11-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 11,
+      "request": "Y11-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        6,
+        6
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 12,
+      "request": "Y12-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        6
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        1
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 12,
+      "request": "Y12-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 12,
+      "request": "Y12-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        3,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 13,
+      "request": "Y13-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        0
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 13,
+      "request": "Y13-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 13,
+      "request": "Y13-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        2,
+        0
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        6,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 14,
+      "request": "Y14-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        7
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        5
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        5
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 14,
+      "request": "Y14-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 14,
+      "request": "Y14-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        5,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 15,
+      "request": "Y15-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        5,
+        3
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 15,
+      "request": "Y15-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 15,
+      "request": "Y15-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        3,
+        1
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-0",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        7,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 16,
+      "request": "Y16-1",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        7,
+        5
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-2",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        5,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-3",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        6
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-4",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-5",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        7,
+        6
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-6",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        6,
+        6
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-7",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        7,
+        6
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-8",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 16,
+      "request": "Y16-9",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-10",
+      "root": "站0",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        4,
+        4
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 16,
+      "request": "Y16-11",
+      "root": "站1",
+      "load_flag": 1,
+      "arrangement": "普通",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        5,
+        6
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        5,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 17,
+      "request": "Y17-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        1
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        4
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 17,
+      "request": "Y17-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        2,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 17,
+      "request": "Y17-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        0,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-0",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": false,
+      "delays": [
+        4,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": false
+    },
+    {
+      "week": 18,
+      "request": "Y18-1",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-2",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        2
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-3",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        1,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-4",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-5",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-6",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        4
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-7",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        1,
+        2
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-8",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": false
+    },
+    {
+      "week": 18,
+      "request": "Y18-9",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "全部",
+      "initially_visible": true,
+      "delays": [
+        3,
+        null
+      ],
+      "deadline": 6,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-10",
+      "root": "站0",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": true,
+      "delays": [
+        3,
+        3
+      ],
+      "deadline": 7,
+      "complete_source": true
+    },
+    {
+      "week": 18,
+      "request": "Y18-11",
+      "root": "站1",
+      "load_flag": 0,
+      "arrangement": "加开",
+      "join": "任一",
+      "initially_visible": false,
+      "delays": [
+        2,
+        3
+      ],
+      "deadline": 8,
+      "complete_source": true
+    }
+  ],
+  "weekly_forecasts": [
+    {
+      "week": 37,
+      "provider": "站0",
+      "regular": 3,
+      "already_taken": 1,
+      "busy": 1
+    },
+    {
+      "week": 37,
+      "provider": "站1",
+      "regular": 4,
+      "already_taken": 2,
+      "busy": 1
+    },
+    {
+      "week": 38,
+      "provider": "站0",
+      "regular": 2,
+      "already_taken": 2,
+      "busy": 1
+    },
+    {
+      "week": 38,
+      "provider": "站1",
+      "regular": 4,
+      "already_taken": 3,
+      "busy": 1
+    }
+  ],
+  "proposal_sets": [
+    {
+      "proposal": "试案东",
+      "provider": "站0",
+      "week": 37,
+      "extra": 2
+    },
+    {
+      "proposal": "试案西",
+      "provider": "站1",
+      "week": 37,
+      "extra": 2
+    },
+    {
+      "proposal": "交叉",
+      "provider": "站0",
+      "week": 37,
+      "extra": 1
+    },
+    {
+      "proposal": "交叉",
+      "provider": "站1",
+      "week": 37,
+      "extra": 1
+    },
+    {
+      "proposal": "交叉",
+      "provider": "站0",
+      "week": 38,
+      "extra": 1
+    }
+  ],
+  "extra_limits": {
+    "37": 2,
+    "38": 1,
+    "weeks_total": 2
+  },
+  "remaining_queue": [
+    {
+      "request": "R5",
+      "still_open_asof": 36,
+      "earliest_week": 37,
+      "linked": [
+        "R5-1"
+      ]
+    },
+    {
+      "request": "R7",
+      "still_open_asof": 36,
+      "earliest_week": 37,
+      "linked": [
+        "R7-0",
+        "R7-1"
+      ]
+    },
+    {
+      "request": "R8",
+      "still_open_asof": 36,
+      "earliest_week": 38,
+      "linked": [
+        "R8-1"
+      ]
+    },
+    {
+      "request": "R25",
+      "still_open_asof": 36,
+      "earliest_week": 37,
+      "linked": [
+        "R25-0"
+      ]
+    },
+    {
+      "request": "R28",
+      "still_open_asof": 36,
+      "earliest_week": 38,
+      "linked": [
+        "R28-1"
+      ]
+    }
   ]
 }
