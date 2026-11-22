@@ -1,0 +1,3281 @@
+{
+  "requests": [
+    {
+      "request": "R0",
+      "household": "户0",
+      "recipient": "学生",
+      "start": 0,
+      "join": "全部",
+      "deadline": 8
+    },
+    {
+      "request": "R1",
+      "household": "户0",
+      "recipient": "家长",
+      "start": 0,
+      "join": "任一",
+      "deadline": 8
+    },
+    {
+      "request": "R2",
+      "household": "户1",
+      "recipient": "学生",
+      "start": 0,
+      "join": "任一",
+      "deadline": 8
+    },
+    {
+      "request": "R3",
+      "household": "户1",
+      "recipient": "家长",
+      "start": 0,
+      "join": "全部",
+      "deadline": 8
+    },
+    {
+      "request": "R4",
+      "household": "户2",
+      "recipient": "学生",
+      "start": 0,
+      "join": "任一",
+      "deadline": 8
+    },
+    {
+      "request": "R5",
+      "household": "户2",
+      "recipient": "家长",
+      "start": 0,
+      "join": "任一",
+      "deadline": 8
+    },
+    {
+      "request": "R6",
+      "household": "户3",
+      "recipient": "学生",
+      "start": 7,
+      "join": "全部",
+      "deadline": 15
+    },
+    {
+      "request": "R7",
+      "household": "户3",
+      "recipient": "家长",
+      "start": 7,
+      "join": "任一",
+      "deadline": 15
+    },
+    {
+      "request": "R8",
+      "household": "户4",
+      "recipient": "学生",
+      "start": 7,
+      "join": "任一",
+      "deadline": 15
+    },
+    {
+      "request": "R9",
+      "household": "户4",
+      "recipient": "家长",
+      "start": 7,
+      "join": "全部",
+      "deadline": 15
+    },
+    {
+      "request": "R10",
+      "household": "户5",
+      "recipient": "学生",
+      "start": 7,
+      "join": "任一",
+      "deadline": 15
+    },
+    {
+      "request": "R11",
+      "household": "户5",
+      "recipient": "家长",
+      "start": 7,
+      "join": "任一",
+      "deadline": 15
+    },
+    {
+      "request": "R12",
+      "household": "户6",
+      "recipient": "学生",
+      "start": 14,
+      "join": "全部",
+      "deadline": 22
+    },
+    {
+      "request": "R13",
+      "household": "户6",
+      "recipient": "家长",
+      "start": 14,
+      "join": "任一",
+      "deadline": 22
+    },
+    {
+      "request": "R14",
+      "household": "户7",
+      "recipient": "学生",
+      "start": 14,
+      "join": "任一",
+      "deadline": 22
+    },
+    {
+      "request": "R15",
+      "household": "户7",
+      "recipient": "家长",
+      "start": 14,
+      "join": "全部",
+      "deadline": 22
+    },
+    {
+      "request": "R16",
+      "household": "户8",
+      "recipient": "学生",
+      "start": 14,
+      "join": "任一",
+      "deadline": 22
+    },
+    {
+      "request": "R17",
+      "household": "户8",
+      "recipient": "家长",
+      "start": 14,
+      "join": "任一",
+      "deadline": 22
+    },
+    {
+      "request": "R18",
+      "household": "户9",
+      "recipient": "学生",
+      "start": 21,
+      "join": "全部",
+      "deadline": 29
+    },
+    {
+      "request": "R19",
+      "household": "户9",
+      "recipient": "家长",
+      "start": 21,
+      "join": "任一",
+      "deadline": 29
+    },
+    {
+      "request": "R20",
+      "household": "户10",
+      "recipient": "学生",
+      "start": 21,
+      "join": "任一",
+      "deadline": 29
+    },
+    {
+      "request": "R21",
+      "household": "户10",
+      "recipient": "家长",
+      "start": 21,
+      "join": "全部",
+      "deadline": 29
+    },
+    {
+      "request": "R22",
+      "household": "户11",
+      "recipient": "学生",
+      "start": 21,
+      "join": "任一",
+      "deadline": 29
+    },
+    {
+      "request": "R23",
+      "household": "户11",
+      "recipient": "家长",
+      "start": 21,
+      "join": "任一",
+      "deadline": 29
+    },
+    {
+      "request": "R24",
+      "household": "户12",
+      "recipient": "学生",
+      "start": 28,
+      "join": "全部",
+      "deadline": 36
+    },
+    {
+      "request": "R25",
+      "household": "户12",
+      "recipient": "家长",
+      "start": 28,
+      "join": "任一",
+      "deadline": 36
+    },
+    {
+      "request": "R26",
+      "household": "户13",
+      "recipient": "学生",
+      "start": 28,
+      "join": "任一",
+      "deadline": 36
+    },
+    {
+      "request": "R27",
+      "household": "户13",
+      "recipient": "家长",
+      "start": 28,
+      "join": "全部",
+      "deadline": 36
+    },
+    {
+      "request": "R28",
+      "household": "户14",
+      "recipient": "学生",
+      "start": 28,
+      "join": "任一",
+      "deadline": 36
+    },
+    {
+      "request": "R29",
+      "household": "户14",
+      "recipient": "家长",
+      "start": 28,
+      "join": "任一",
+      "deadline": 36
+    },
+    {
+      "request": "R30",
+      "household": "户15",
+      "recipient": "学生",
+      "start": 35,
+      "join": "全部",
+      "deadline": 43
+    },
+    {
+      "request": "R31",
+      "household": "户15",
+      "recipient": "家长",
+      "start": 35,
+      "join": "任一",
+      "deadline": 43
+    },
+    {
+      "request": "R32",
+      "household": "户16",
+      "recipient": "学生",
+      "start": 35,
+      "join": "任一",
+      "deadline": 43
+    },
+    {
+      "request": "R33",
+      "household": "户16",
+      "recipient": "家长",
+      "start": 35,
+      "join": "全部",
+      "deadline": 43
+    },
+    {
+      "request": "R34",
+      "household": "户17",
+      "recipient": "学生",
+      "start": 35,
+      "join": "任一",
+      "deadline": 43
+    },
+    {
+      "request": "R35",
+      "household": "户17",
+      "recipient": "家长",
+      "start": 35,
+      "join": "任一",
+      "deadline": 43
+    },
+    {
+      "request": "R36",
+      "household": "户18",
+      "recipient": "学生",
+      "start": 42,
+      "join": "全部",
+      "deadline": 50
+    },
+    {
+      "request": "R37",
+      "household": "户18",
+      "recipient": "家长",
+      "start": 42,
+      "join": "任一",
+      "deadline": 50
+    },
+    {
+      "request": "R38",
+      "household": "户19",
+      "recipient": "学生",
+      "start": 42,
+      "join": "任一",
+      "deadline": 50
+    },
+    {
+      "request": "R39",
+      "household": "户19",
+      "recipient": "家长",
+      "start": 42,
+      "join": "全部",
+      "deadline": 50
+    },
+    {
+      "request": "R40",
+      "household": "户20",
+      "recipient": "学生",
+      "start": 42,
+      "join": "任一",
+      "deadline": 50
+    },
+    {
+      "request": "R41",
+      "household": "户20",
+      "recipient": "家长",
+      "start": 42,
+      "join": "任一",
+      "deadline": 50
+    },
+    {
+      "request": "R42",
+      "household": "户21",
+      "recipient": "学生",
+      "start": 49,
+      "join": "全部",
+      "deadline": 57
+    },
+    {
+      "request": "R43",
+      "household": "户21",
+      "recipient": "家长",
+      "start": 49,
+      "join": "任一",
+      "deadline": 57
+    }
+  ],
+  "events": [
+    {
+      "request": "R0",
+      "branch": "R0-0",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R0-0P"
+    },
+    {
+      "request": "R0",
+      "branch": "R0-0",
+      "owner": "站0",
+      "day": 2,
+      "event": "接手",
+      "evidence": "R0-0H"
+    },
+    {
+      "request": "R0",
+      "branch": "R0-0",
+      "owner": "站0",
+      "day": 5,
+      "event": "退回",
+      "evidence": "R0-0F"
+    },
+    {
+      "request": "R0",
+      "branch": "R0-1",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R0-1P"
+    },
+    {
+      "request": "R0",
+      "branch": "R0-1",
+      "owner": "站1",
+      "day": 3,
+      "event": "接手",
+      "evidence": "R0-1H"
+    },
+    {
+      "request": "R0",
+      "branch": "R0-1",
+      "owner": "站1",
+      "day": 5,
+      "event": "已完成",
+      "evidence": "R0-1C"
+    },
+    {
+      "request": "R0",
+      "branch": "R0-1",
+      "owner": "联络台",
+      "day": 6,
+      "event": "转抄",
+      "evidence": "R0-1C"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-0",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R1-0P"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-0",
+      "owner": "站0",
+      "day": 2,
+      "event": "接手",
+      "evidence": "R1-0H"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-0",
+      "owner": "站0",
+      "day": 4,
+      "event": "已完成",
+      "evidence": "R1-0C"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-0",
+      "owner": "联络台",
+      "day": 5,
+      "event": "转抄",
+      "evidence": "R1-0C"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-1",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R1-1P"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-1",
+      "owner": "站1",
+      "day": 3,
+      "event": "接手",
+      "evidence": "R1-1H"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-1",
+      "owner": "站1",
+      "day": 5,
+      "event": "已完成",
+      "evidence": "R1-1C"
+    },
+    {
+      "request": "R1",
+      "branch": "R1-1",
+      "owner": "联络台",
+      "day": 6,
+      "event": "转抄",
+      "evidence": "R1-1C"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-0",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R2-0P"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-0",
+      "owner": "站0",
+      "day": 2,
+      "event": "接手",
+      "evidence": "R2-0H"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-0",
+      "owner": "站0",
+      "day": 4,
+      "event": "已完成",
+      "evidence": "R2-0C"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-0",
+      "owner": "联络台",
+      "day": 5,
+      "event": "转抄",
+      "evidence": "R2-0C"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-1",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R2-1P"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-1",
+      "owner": "站1",
+      "day": 3,
+      "event": "接手",
+      "evidence": "R2-1H"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-1",
+      "owner": "站1",
+      "day": 5,
+      "event": "已完成",
+      "evidence": "R2-1C"
+    },
+    {
+      "request": "R2",
+      "branch": "R2-1",
+      "owner": "联络台",
+      "day": 6,
+      "event": "转抄",
+      "evidence": "R2-1C"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-0",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R3-0P"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-0",
+      "owner": "站0",
+      "day": 2,
+      "event": "接手",
+      "evidence": "R3-0H"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-0",
+      "owner": "站0",
+      "day": 4,
+      "event": "已完成",
+      "evidence": "R3-0C"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-0",
+      "owner": "联络台",
+      "day": 5,
+      "event": "转抄",
+      "evidence": "R3-0C"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-1",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R3-1P"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-1",
+      "owner": "站1",
+      "day": 3,
+      "event": "接手",
+      "evidence": "R3-1H"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-1",
+      "owner": "站1",
+      "day": 5,
+      "event": "已完成",
+      "evidence": "R3-1C"
+    },
+    {
+      "request": "R3",
+      "branch": "R3-1",
+      "owner": "联络台",
+      "day": 6,
+      "event": "转抄",
+      "evidence": "R3-1C"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-0",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R4-0P"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-0",
+      "owner": "站0",
+      "day": 2,
+      "event": "接手",
+      "evidence": "R4-0H"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-0",
+      "owner": "站0",
+      "day": 4,
+      "event": "已完成",
+      "evidence": "R4-0C"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-0",
+      "owner": "联络台",
+      "day": 5,
+      "event": "转抄",
+      "evidence": "R4-0C"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-1",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R4-1P"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-1",
+      "owner": "站1",
+      "day": 3,
+      "event": "接手",
+      "evidence": "R4-1H"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-1",
+      "owner": "站1",
+      "day": 5,
+      "event": "已完成",
+      "evidence": "R4-1C"
+    },
+    {
+      "request": "R4",
+      "branch": "R4-1",
+      "owner": "联络台",
+      "day": 6,
+      "event": "转抄",
+      "evidence": "R4-1C"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-0",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R5-0P"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-0",
+      "owner": "站0",
+      "day": 2,
+      "event": "接手",
+      "evidence": "R5-0H"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-0",
+      "owner": "站0",
+      "day": 4,
+      "event": "已完成",
+      "evidence": "R5-0C"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-0",
+      "owner": "联络台",
+      "day": 5,
+      "event": "转抄",
+      "evidence": "R5-0C"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-1",
+      "owner": "联络台",
+      "day": 1,
+      "event": "发出",
+      "evidence": "R5-1P"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-1",
+      "owner": "站1",
+      "day": 3,
+      "event": "接手",
+      "evidence": "R5-1H"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-1",
+      "owner": "站1",
+      "day": 5,
+      "event": "已完成",
+      "evidence": "R5-1C"
+    },
+    {
+      "request": "R5",
+      "branch": "R5-1",
+      "owner": "联络台",
+      "day": 6,
+      "event": "转抄",
+      "evidence": "R5-1C"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-0",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R6-0P"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-0",
+      "owner": "站0",
+      "day": 9,
+      "event": "接手",
+      "evidence": "R6-0H"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-0",
+      "owner": "站0",
+      "day": 11,
+      "event": "已完成",
+      "evidence": "R6-0C"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-0",
+      "owner": "联络台",
+      "day": 12,
+      "event": "转抄",
+      "evidence": "R6-0C"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-1",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R6-1P"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-1",
+      "owner": "站1",
+      "day": 10,
+      "event": "接手",
+      "evidence": "R6-1H"
+    },
+    {
+      "request": "R6",
+      "branch": "R6-1",
+      "owner": "站1",
+      "day": 13,
+      "event": "退回",
+      "evidence": "R6-1F"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-0",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R7-0P"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-0",
+      "owner": "站0",
+      "day": 9,
+      "event": "接手",
+      "evidence": "R7-0H"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-0",
+      "owner": "站0",
+      "day": 12,
+      "event": "退回",
+      "evidence": "R7-0F"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-1",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R7-1P"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-1",
+      "owner": "站1",
+      "day": 10,
+      "event": "接手",
+      "evidence": "R7-1H"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-1",
+      "owner": "站1",
+      "day": 12,
+      "event": "已完成",
+      "evidence": "R7-1C"
+    },
+    {
+      "request": "R7",
+      "branch": "R7-1",
+      "owner": "联络台",
+      "day": 13,
+      "event": "转抄",
+      "evidence": "R7-1C"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-0",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R8-0P"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-0",
+      "owner": "站0",
+      "day": 9,
+      "event": "接手",
+      "evidence": "R8-0H"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-0",
+      "owner": "站0",
+      "day": 11,
+      "event": "已完成",
+      "evidence": "R8-0C"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-0",
+      "owner": "联络台",
+      "day": 12,
+      "event": "转抄",
+      "evidence": "R8-0C"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-1",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R8-1P"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-1",
+      "owner": "站1",
+      "day": 10,
+      "event": "接手",
+      "evidence": "R8-1H"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-1",
+      "owner": "站1",
+      "day": 12,
+      "event": "已完成",
+      "evidence": "R8-1C"
+    },
+    {
+      "request": "R8",
+      "branch": "R8-1",
+      "owner": "联络台",
+      "day": 13,
+      "event": "转抄",
+      "evidence": "R8-1C"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-0",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R9-0P"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-0",
+      "owner": "站0",
+      "day": 9,
+      "event": "接手",
+      "evidence": "R9-0H"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-0",
+      "owner": "站0",
+      "day": 11,
+      "event": "已完成",
+      "evidence": "R9-0C"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-0",
+      "owner": "联络台",
+      "day": 12,
+      "event": "转抄",
+      "evidence": "R9-0C"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-1",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R9-1P"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-1",
+      "owner": "站1",
+      "day": 10,
+      "event": "接手",
+      "evidence": "R9-1H"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-1",
+      "owner": "站1",
+      "day": 12,
+      "event": "已完成",
+      "evidence": "R9-1C"
+    },
+    {
+      "request": "R9",
+      "branch": "R9-1",
+      "owner": "联络台",
+      "day": 13,
+      "event": "转抄",
+      "evidence": "R9-1C"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-0",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R10-0P"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-0",
+      "owner": "站0",
+      "day": 9,
+      "event": "接手",
+      "evidence": "R10-0H"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-0",
+      "owner": "站0",
+      "day": 11,
+      "event": "已完成",
+      "evidence": "R10-0C"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-0",
+      "owner": "联络台",
+      "day": 12,
+      "event": "转抄",
+      "evidence": "R10-0C"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-1",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R10-1P"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-1",
+      "owner": "站1",
+      "day": 10,
+      "event": "接手",
+      "evidence": "R10-1H"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-1",
+      "owner": "站1",
+      "day": 12,
+      "event": "已完成",
+      "evidence": "R10-1C"
+    },
+    {
+      "request": "R10",
+      "branch": "R10-1",
+      "owner": "联络台",
+      "day": 13,
+      "event": "转抄",
+      "evidence": "R10-1C"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-0",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R11-0P"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-0",
+      "owner": "站0",
+      "day": 9,
+      "event": "接手",
+      "evidence": "R11-0H"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-0",
+      "owner": "站0",
+      "day": 11,
+      "event": "已完成",
+      "evidence": "R11-0C"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-0",
+      "owner": "联络台",
+      "day": 12,
+      "event": "转抄",
+      "evidence": "R11-0C"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-1",
+      "owner": "联络台",
+      "day": 8,
+      "event": "发出",
+      "evidence": "R11-1P"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-1",
+      "owner": "站1",
+      "day": 10,
+      "event": "接手",
+      "evidence": "R11-1H"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-1",
+      "owner": "站1",
+      "day": 12,
+      "event": "已完成",
+      "evidence": "R11-1C"
+    },
+    {
+      "request": "R11",
+      "branch": "R11-1",
+      "owner": "联络台",
+      "day": 13,
+      "event": "转抄",
+      "evidence": "R11-1C"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-0",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R12-0P"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-0",
+      "owner": "站0",
+      "day": 16,
+      "event": "接手",
+      "evidence": "R12-0H"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-0",
+      "owner": "站0",
+      "day": 18,
+      "event": "已完成",
+      "evidence": "R12-0C"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-0",
+      "owner": "联络台",
+      "day": 19,
+      "event": "转抄",
+      "evidence": "R12-0C"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-1",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R12-1P"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-1",
+      "owner": "站1",
+      "day": 17,
+      "event": "接手",
+      "evidence": "R12-1H"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-1",
+      "owner": "站1",
+      "day": 19,
+      "event": "已完成",
+      "evidence": "R12-1C"
+    },
+    {
+      "request": "R12",
+      "branch": "R12-1",
+      "owner": "联络台",
+      "day": 20,
+      "event": "转抄",
+      "evidence": "R12-1C"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-0",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R13-0P"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-0",
+      "owner": "站0",
+      "day": 16,
+      "event": "接手",
+      "evidence": "R13-0H"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-0",
+      "owner": "站0",
+      "day": 18,
+      "event": "已完成",
+      "evidence": "R13-0C"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-0",
+      "owner": "联络台",
+      "day": 19,
+      "event": "转抄",
+      "evidence": "R13-0C"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-1",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R13-1P"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-1",
+      "owner": "站1",
+      "day": 17,
+      "event": "接手",
+      "evidence": "R13-1H"
+    },
+    {
+      "request": "R13",
+      "branch": "R13-1",
+      "owner": "站1",
+      "day": 20,
+      "event": "退回",
+      "evidence": "R13-1F"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-0",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R14-0P"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-0",
+      "owner": "站0",
+      "day": 16,
+      "event": "接手",
+      "evidence": "R14-0H"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-0",
+      "owner": "站0",
+      "day": 19,
+      "event": "退回",
+      "evidence": "R14-0F"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-1",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R14-1P"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-1",
+      "owner": "站1",
+      "day": 17,
+      "event": "接手",
+      "evidence": "R14-1H"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-1",
+      "owner": "站1",
+      "day": 19,
+      "event": "已完成",
+      "evidence": "R14-1C"
+    },
+    {
+      "request": "R14",
+      "branch": "R14-1",
+      "owner": "联络台",
+      "day": 20,
+      "event": "转抄",
+      "evidence": "R14-1C"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-0",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R15-0P"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-0",
+      "owner": "站0",
+      "day": 16,
+      "event": "接手",
+      "evidence": "R15-0H"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-0",
+      "owner": "站0",
+      "day": 18,
+      "event": "已完成",
+      "evidence": "R15-0C"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-0",
+      "owner": "联络台",
+      "day": 19,
+      "event": "转抄",
+      "evidence": "R15-0C"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-1",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R15-1P"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-1",
+      "owner": "站1",
+      "day": 17,
+      "event": "接手",
+      "evidence": "R15-1H"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-1",
+      "owner": "站1",
+      "day": 19,
+      "event": "已完成",
+      "evidence": "R15-1C"
+    },
+    {
+      "request": "R15",
+      "branch": "R15-1",
+      "owner": "联络台",
+      "day": 20,
+      "event": "转抄",
+      "evidence": "R15-1C"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-0",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R16-0P"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-0",
+      "owner": "站0",
+      "day": 16,
+      "event": "接手",
+      "evidence": "R16-0H"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-0",
+      "owner": "站0",
+      "day": 18,
+      "event": "已完成",
+      "evidence": "R16-0C"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-0",
+      "owner": "联络台",
+      "day": 19,
+      "event": "转抄",
+      "evidence": "R16-0C"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-1",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R16-1P"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-1",
+      "owner": "站1",
+      "day": 17,
+      "event": "接手",
+      "evidence": "R16-1H"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-1",
+      "owner": "站1",
+      "day": 19,
+      "event": "已完成",
+      "evidence": "R16-1C"
+    },
+    {
+      "request": "R16",
+      "branch": "R16-1",
+      "owner": "联络台",
+      "day": 20,
+      "event": "转抄",
+      "evidence": "R16-1C"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-0",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R17-0P"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-0",
+      "owner": "站0",
+      "day": 16,
+      "event": "接手",
+      "evidence": "R17-0H"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-0",
+      "owner": "站0",
+      "day": 18,
+      "event": "已完成",
+      "evidence": "R17-0C"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-0",
+      "owner": "联络台",
+      "day": 19,
+      "event": "转抄",
+      "evidence": "R17-0C"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-1",
+      "owner": "联络台",
+      "day": 15,
+      "event": "发出",
+      "evidence": "R17-1P"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-1",
+      "owner": "站1",
+      "day": 17,
+      "event": "接手",
+      "evidence": "R17-1H"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-1",
+      "owner": "站1",
+      "day": 19,
+      "event": "已完成",
+      "evidence": "R17-1C"
+    },
+    {
+      "request": "R17",
+      "branch": "R17-1",
+      "owner": "联络台",
+      "day": 20,
+      "event": "转抄",
+      "evidence": "R17-1C"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-0",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R18-0P"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-0",
+      "owner": "站0",
+      "day": 23,
+      "event": "接手",
+      "evidence": "R18-0H"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-0",
+      "owner": "站0",
+      "day": 25,
+      "event": "已完成",
+      "evidence": "R18-0C"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-0",
+      "owner": "联络台",
+      "day": 26,
+      "event": "转抄",
+      "evidence": "R18-0C"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-1",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R18-1P"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-1",
+      "owner": "站1",
+      "day": 24,
+      "event": "接手",
+      "evidence": "R18-1H"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-1",
+      "owner": "站1",
+      "day": 26,
+      "event": "已完成",
+      "evidence": "R18-1C"
+    },
+    {
+      "request": "R18",
+      "branch": "R18-1",
+      "owner": "联络台",
+      "day": 27,
+      "event": "转抄",
+      "evidence": "R18-1C"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-0",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R19-0P"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-0",
+      "owner": "站0",
+      "day": 23,
+      "event": "接手",
+      "evidence": "R19-0H"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-0",
+      "owner": "站0",
+      "day": 25,
+      "event": "已完成",
+      "evidence": "R19-0C"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-0",
+      "owner": "联络台",
+      "day": 26,
+      "event": "转抄",
+      "evidence": "R19-0C"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-1",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R19-1P"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-1",
+      "owner": "站1",
+      "day": 24,
+      "event": "接手",
+      "evidence": "R19-1H"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-1",
+      "owner": "站1",
+      "day": 26,
+      "event": "已完成",
+      "evidence": "R19-1C"
+    },
+    {
+      "request": "R19",
+      "branch": "R19-1",
+      "owner": "联络台",
+      "day": 27,
+      "event": "转抄",
+      "evidence": "R19-1C"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-0",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R20-0P"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-0",
+      "owner": "站0",
+      "day": 23,
+      "event": "接手",
+      "evidence": "R20-0H"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-0",
+      "owner": "站0",
+      "day": 25,
+      "event": "已完成",
+      "evidence": "R20-0C"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-0",
+      "owner": "联络台",
+      "day": 26,
+      "event": "转抄",
+      "evidence": "R20-0C"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-1",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R20-1P"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-1",
+      "owner": "站1",
+      "day": 24,
+      "event": "接手",
+      "evidence": "R20-1H"
+    },
+    {
+      "request": "R20",
+      "branch": "R20-1",
+      "owner": "站1",
+      "day": 27,
+      "event": "退回",
+      "evidence": "R20-1F"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-0",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R21-0P"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-0",
+      "owner": "站0",
+      "day": 23,
+      "event": "接手",
+      "evidence": "R21-0H"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-0",
+      "owner": "站0",
+      "day": 26,
+      "event": "退回",
+      "evidence": "R21-0F"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-1",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R21-1P"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-1",
+      "owner": "站1",
+      "day": 24,
+      "event": "接手",
+      "evidence": "R21-1H"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-1",
+      "owner": "站1",
+      "day": 26,
+      "event": "已完成",
+      "evidence": "R21-1C"
+    },
+    {
+      "request": "R21",
+      "branch": "R21-1",
+      "owner": "联络台",
+      "day": 27,
+      "event": "转抄",
+      "evidence": "R21-1C"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-0",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R22-0P"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-0",
+      "owner": "站0",
+      "day": 23,
+      "event": "接手",
+      "evidence": "R22-0H"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-0",
+      "owner": "站0",
+      "day": 25,
+      "event": "已完成",
+      "evidence": "R22-0C"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-0",
+      "owner": "联络台",
+      "day": 26,
+      "event": "转抄",
+      "evidence": "R22-0C"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-1",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R22-1P"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-1",
+      "owner": "站1",
+      "day": 24,
+      "event": "接手",
+      "evidence": "R22-1H"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-1",
+      "owner": "站1",
+      "day": 26,
+      "event": "已完成",
+      "evidence": "R22-1C"
+    },
+    {
+      "request": "R22",
+      "branch": "R22-1",
+      "owner": "联络台",
+      "day": 27,
+      "event": "转抄",
+      "evidence": "R22-1C"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-0",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R23-0P"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-0",
+      "owner": "站0",
+      "day": 23,
+      "event": "接手",
+      "evidence": "R23-0H"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-0",
+      "owner": "站0",
+      "day": 25,
+      "event": "已完成",
+      "evidence": "R23-0C"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-0",
+      "owner": "联络台",
+      "day": 26,
+      "event": "转抄",
+      "evidence": "R23-0C"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-1",
+      "owner": "联络台",
+      "day": 22,
+      "event": "发出",
+      "evidence": "R23-1P"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-1",
+      "owner": "站1",
+      "day": 24,
+      "event": "接手",
+      "evidence": "R23-1H"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-1",
+      "owner": "站1",
+      "day": 26,
+      "event": "已完成",
+      "evidence": "R23-1C"
+    },
+    {
+      "request": "R23",
+      "branch": "R23-1",
+      "owner": "联络台",
+      "day": 27,
+      "event": "转抄",
+      "evidence": "R23-1C"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-0",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R24-0P"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-0",
+      "owner": "站0",
+      "day": 30,
+      "event": "接手",
+      "evidence": "R24-0H"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-0",
+      "owner": "站0",
+      "day": 32,
+      "event": "已完成",
+      "evidence": "R24-0C"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-0",
+      "owner": "联络台",
+      "day": 33,
+      "event": "转抄",
+      "evidence": "R24-0C"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-1",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R24-1P"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-1",
+      "owner": "站1",
+      "day": 31,
+      "event": "接手",
+      "evidence": "R24-1H"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-1",
+      "owner": "站1",
+      "day": 33,
+      "event": "已完成",
+      "evidence": "R24-1C"
+    },
+    {
+      "request": "R24",
+      "branch": "R24-1",
+      "owner": "联络台",
+      "day": 34,
+      "event": "转抄",
+      "evidence": "R24-1C"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-0",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R25-0P"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-0",
+      "owner": "站0",
+      "day": 30,
+      "event": "接手",
+      "evidence": "R25-0H"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-0",
+      "owner": "站0",
+      "day": 32,
+      "event": "已完成",
+      "evidence": "R25-0C"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-0",
+      "owner": "联络台",
+      "day": 33,
+      "event": "转抄",
+      "evidence": "R25-0C"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-1",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R25-1P"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-1",
+      "owner": "站1",
+      "day": 31,
+      "event": "接手",
+      "evidence": "R25-1H"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-1",
+      "owner": "站1",
+      "day": 33,
+      "event": "已完成",
+      "evidence": "R25-1C"
+    },
+    {
+      "request": "R25",
+      "branch": "R25-1",
+      "owner": "联络台",
+      "day": 34,
+      "event": "转抄",
+      "evidence": "R25-1C"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-0",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R26-0P"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-0",
+      "owner": "站0",
+      "day": 30,
+      "event": "接手",
+      "evidence": "R26-0H"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-0",
+      "owner": "站0",
+      "day": 32,
+      "event": "已完成",
+      "evidence": "R26-0C"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-0",
+      "owner": "联络台",
+      "day": 33,
+      "event": "转抄",
+      "evidence": "R26-0C"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-1",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R26-1P"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-1",
+      "owner": "站1",
+      "day": 31,
+      "event": "接手",
+      "evidence": "R26-1H"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-1",
+      "owner": "站1",
+      "day": 33,
+      "event": "已完成",
+      "evidence": "R26-1C"
+    },
+    {
+      "request": "R26",
+      "branch": "R26-1",
+      "owner": "联络台",
+      "day": 34,
+      "event": "转抄",
+      "evidence": "R26-1C"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-0",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R27-0P"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-0",
+      "owner": "站0",
+      "day": 30,
+      "event": "接手",
+      "evidence": "R27-0H"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-0",
+      "owner": "站0",
+      "day": 32,
+      "event": "已完成",
+      "evidence": "R27-0C"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-0",
+      "owner": "联络台",
+      "day": 33,
+      "event": "转抄",
+      "evidence": "R27-0C"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-1",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R27-1P"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-1",
+      "owner": "站1",
+      "day": 31,
+      "event": "接手",
+      "evidence": "R27-1H"
+    },
+    {
+      "request": "R27",
+      "branch": "R27-1",
+      "owner": "站1",
+      "day": 34,
+      "event": "退回",
+      "evidence": "R27-1F"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-0",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R28-0P"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-0",
+      "owner": "站0",
+      "day": 30,
+      "event": "接手",
+      "evidence": "R28-0H"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-0",
+      "owner": "站0",
+      "day": 33,
+      "event": "退回",
+      "evidence": "R28-0F"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-1",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R28-1P"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-1",
+      "owner": "站1",
+      "day": 31,
+      "event": "接手",
+      "evidence": "R28-1H"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-1",
+      "owner": "站1",
+      "day": 33,
+      "event": "已完成",
+      "evidence": "R28-1C"
+    },
+    {
+      "request": "R28",
+      "branch": "R28-1",
+      "owner": "联络台",
+      "day": 34,
+      "event": "转抄",
+      "evidence": "R28-1C"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-0",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R29-0P"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-0",
+      "owner": "站0",
+      "day": 30,
+      "event": "接手",
+      "evidence": "R29-0H"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-0",
+      "owner": "站0",
+      "day": 32,
+      "event": "已完成",
+      "evidence": "R29-0C"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-0",
+      "owner": "联络台",
+      "day": 33,
+      "event": "转抄",
+      "evidence": "R29-0C"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-1",
+      "owner": "联络台",
+      "day": 29,
+      "event": "发出",
+      "evidence": "R29-1P"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-1",
+      "owner": "站1",
+      "day": 31,
+      "event": "接手",
+      "evidence": "R29-1H"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-1",
+      "owner": "站1",
+      "day": 33,
+      "event": "已完成",
+      "evidence": "R29-1C"
+    },
+    {
+      "request": "R29",
+      "branch": "R29-1",
+      "owner": "联络台",
+      "day": 34,
+      "event": "转抄",
+      "evidence": "R29-1C"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-0",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R30-0P"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-0",
+      "owner": "站0",
+      "day": 37,
+      "event": "接手",
+      "evidence": "R30-0H"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-0",
+      "owner": "站0",
+      "day": 39,
+      "event": "已完成",
+      "evidence": "R30-0C"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-0",
+      "owner": "联络台",
+      "day": 40,
+      "event": "转抄",
+      "evidence": "R30-0C"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-1",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R30-1P"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-1",
+      "owner": "站1",
+      "day": 38,
+      "event": "接手",
+      "evidence": "R30-1H"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-1",
+      "owner": "站1",
+      "day": 40,
+      "event": "已完成",
+      "evidence": "R30-1C"
+    },
+    {
+      "request": "R30",
+      "branch": "R30-1",
+      "owner": "联络台",
+      "day": 41,
+      "event": "转抄",
+      "evidence": "R30-1C"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-0",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R31-0P"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-0",
+      "owner": "站0",
+      "day": 37,
+      "event": "接手",
+      "evidence": "R31-0H"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-0",
+      "owner": "站0",
+      "day": 39,
+      "event": "已完成",
+      "evidence": "R31-0C"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-0",
+      "owner": "联络台",
+      "day": 40,
+      "event": "转抄",
+      "evidence": "R31-0C"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-1",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R31-1P"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-1",
+      "owner": "站1",
+      "day": 38,
+      "event": "接手",
+      "evidence": "R31-1H"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-1",
+      "owner": "站1",
+      "day": 40,
+      "event": "已完成",
+      "evidence": "R31-1C"
+    },
+    {
+      "request": "R31",
+      "branch": "R31-1",
+      "owner": "联络台",
+      "day": 41,
+      "event": "转抄",
+      "evidence": "R31-1C"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-0",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R32-0P"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-0",
+      "owner": "站0",
+      "day": 37,
+      "event": "接手",
+      "evidence": "R32-0H"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-0",
+      "owner": "站0",
+      "day": 39,
+      "event": "已完成",
+      "evidence": "R32-0C"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-0",
+      "owner": "联络台",
+      "day": 40,
+      "event": "转抄",
+      "evidence": "R32-0C"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-1",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R32-1P"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-1",
+      "owner": "站1",
+      "day": 38,
+      "event": "接手",
+      "evidence": "R32-1H"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-1",
+      "owner": "站1",
+      "day": 40,
+      "event": "已完成",
+      "evidence": "R32-1C"
+    },
+    {
+      "request": "R32",
+      "branch": "R32-1",
+      "owner": "联络台",
+      "day": 41,
+      "event": "转抄",
+      "evidence": "R32-1C"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-0",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R33-0P"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-0",
+      "owner": "站0",
+      "day": 37,
+      "event": "接手",
+      "evidence": "R33-0H"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-0",
+      "owner": "站0",
+      "day": 39,
+      "event": "已完成",
+      "evidence": "R33-0C"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-0",
+      "owner": "联络台",
+      "day": 40,
+      "event": "转抄",
+      "evidence": "R33-0C"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-1",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R33-1P"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-1",
+      "owner": "站1",
+      "day": 38,
+      "event": "接手",
+      "evidence": "R33-1H"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-1",
+      "owner": "站1",
+      "day": 40,
+      "event": "已完成",
+      "evidence": "R33-1C"
+    },
+    {
+      "request": "R33",
+      "branch": "R33-1",
+      "owner": "联络台",
+      "day": 41,
+      "event": "转抄",
+      "evidence": "R33-1C"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-0",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R34-0P"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-0",
+      "owner": "站0",
+      "day": 37,
+      "event": "接手",
+      "evidence": "R34-0H"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-0",
+      "owner": "站0",
+      "day": 39,
+      "event": "已完成",
+      "evidence": "R34-0C"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-0",
+      "owner": "联络台",
+      "day": 40,
+      "event": "转抄",
+      "evidence": "R34-0C"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-1",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R34-1P"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-1",
+      "owner": "站1",
+      "day": 38,
+      "event": "接手",
+      "evidence": "R34-1H"
+    },
+    {
+      "request": "R34",
+      "branch": "R34-1",
+      "owner": "站1",
+      "day": 41,
+      "event": "退回",
+      "evidence": "R34-1F"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-0",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R35-0P"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-0",
+      "owner": "站0",
+      "day": 37,
+      "event": "接手",
+      "evidence": "R35-0H"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-0",
+      "owner": "站0",
+      "day": 40,
+      "event": "退回",
+      "evidence": "R35-0F"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-1",
+      "owner": "联络台",
+      "day": 36,
+      "event": "发出",
+      "evidence": "R35-1P"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-1",
+      "owner": "站1",
+      "day": 38,
+      "event": "接手",
+      "evidence": "R35-1H"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-1",
+      "owner": "站1",
+      "day": 40,
+      "event": "已完成",
+      "evidence": "R35-1C"
+    },
+    {
+      "request": "R35",
+      "branch": "R35-1",
+      "owner": "联络台",
+      "day": 41,
+      "event": "转抄",
+      "evidence": "R35-1C"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-0",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R36-0P"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-0",
+      "owner": "站0",
+      "day": 44,
+      "event": "接手",
+      "evidence": "R36-0H"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-0",
+      "owner": "站0",
+      "day": 46,
+      "event": "已完成",
+      "evidence": "R36-0C"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-0",
+      "owner": "联络台",
+      "day": 47,
+      "event": "转抄",
+      "evidence": "R36-0C"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-1",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R36-1P"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-1",
+      "owner": "站1",
+      "day": 45,
+      "event": "接手",
+      "evidence": "R36-1H"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-1",
+      "owner": "站1",
+      "day": 47,
+      "event": "已完成",
+      "evidence": "R36-1C"
+    },
+    {
+      "request": "R36",
+      "branch": "R36-1",
+      "owner": "联络台",
+      "day": 48,
+      "event": "转抄",
+      "evidence": "R36-1C"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-0",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R37-0P"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-0",
+      "owner": "站0",
+      "day": 44,
+      "event": "接手",
+      "evidence": "R37-0H"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-0",
+      "owner": "站0",
+      "day": 46,
+      "event": "已完成",
+      "evidence": "R37-0C"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-0",
+      "owner": "联络台",
+      "day": 47,
+      "event": "转抄",
+      "evidence": "R37-0C"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-1",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R37-1P"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-1",
+      "owner": "站1",
+      "day": 45,
+      "event": "接手",
+      "evidence": "R37-1H"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-1",
+      "owner": "站1",
+      "day": 47,
+      "event": "已完成",
+      "evidence": "R37-1C"
+    },
+    {
+      "request": "R37",
+      "branch": "R37-1",
+      "owner": "联络台",
+      "day": 48,
+      "event": "转抄",
+      "evidence": "R37-1C"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-0",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R38-0P"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-0",
+      "owner": "站0",
+      "day": 44,
+      "event": "接手",
+      "evidence": "R38-0H"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-0",
+      "owner": "站0",
+      "day": 46,
+      "event": "已完成",
+      "evidence": "R38-0C"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-0",
+      "owner": "联络台",
+      "day": 47,
+      "event": "转抄",
+      "evidence": "R38-0C"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-1",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R38-1P"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-1",
+      "owner": "站1",
+      "day": 45,
+      "event": "接手",
+      "evidence": "R38-1H"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-1",
+      "owner": "站1",
+      "day": 47,
+      "event": "已完成",
+      "evidence": "R38-1C"
+    },
+    {
+      "request": "R38",
+      "branch": "R38-1",
+      "owner": "联络台",
+      "day": 48,
+      "event": "转抄",
+      "evidence": "R38-1C"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-0",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R39-0P"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-0",
+      "owner": "站0",
+      "day": 44,
+      "event": "接手",
+      "evidence": "R39-0H"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-0",
+      "owner": "站0",
+      "day": 46,
+      "event": "已完成",
+      "evidence": "R39-0C"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-0",
+      "owner": "联络台",
+      "day": 47,
+      "event": "转抄",
+      "evidence": "R39-0C"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-1",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R39-1P"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-1",
+      "owner": "站1",
+      "day": 45,
+      "event": "接手",
+      "evidence": "R39-1H"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-1",
+      "owner": "站1",
+      "day": 47,
+      "event": "已完成",
+      "evidence": "R39-1C"
+    },
+    {
+      "request": "R39",
+      "branch": "R39-1",
+      "owner": "联络台",
+      "day": 48,
+      "event": "转抄",
+      "evidence": "R39-1C"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-0",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R40-0P"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-0",
+      "owner": "站0",
+      "day": 44,
+      "event": "接手",
+      "evidence": "R40-0H"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-0",
+      "owner": "站0",
+      "day": 46,
+      "event": "已完成",
+      "evidence": "R40-0C"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-0",
+      "owner": "联络台",
+      "day": 47,
+      "event": "转抄",
+      "evidence": "R40-0C"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-1",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R40-1P"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-1",
+      "owner": "站1",
+      "day": 45,
+      "event": "接手",
+      "evidence": "R40-1H"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-1",
+      "owner": "站1",
+      "day": 47,
+      "event": "已完成",
+      "evidence": "R40-1C"
+    },
+    {
+      "request": "R40",
+      "branch": "R40-1",
+      "owner": "联络台",
+      "day": 48,
+      "event": "转抄",
+      "evidence": "R40-1C"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-0",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R41-0P"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-0",
+      "owner": "站0",
+      "day": 44,
+      "event": "接手",
+      "evidence": "R41-0H"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-0",
+      "owner": "站0",
+      "day": 46,
+      "event": "已完成",
+      "evidence": "R41-0C"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-0",
+      "owner": "联络台",
+      "day": 47,
+      "event": "转抄",
+      "evidence": "R41-0C"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-1",
+      "owner": "联络台",
+      "day": 43,
+      "event": "发出",
+      "evidence": "R41-1P"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-1",
+      "owner": "站1",
+      "day": 45,
+      "event": "接手",
+      "evidence": "R41-1H"
+    },
+    {
+      "request": "R41",
+      "branch": "R41-1",
+      "owner": "站1",
+      "day": 48,
+      "event": "退回",
+      "evidence": "R41-1F"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-0",
+      "owner": "联络台",
+      "day": 50,
+      "event": "发出",
+      "evidence": "R42-0P"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-0",
+      "owner": "站0",
+      "day": 51,
+      "event": "接手",
+      "evidence": "R42-0H"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-0",
+      "owner": "站0",
+      "day": 54,
+      "event": "退回",
+      "evidence": "R42-0F"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-1",
+      "owner": "联络台",
+      "day": 50,
+      "event": "发出",
+      "evidence": "R42-1P"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-1",
+      "owner": "站1",
+      "day": 52,
+      "event": "接手",
+      "evidence": "R42-1H"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-1",
+      "owner": "站1",
+      "day": 54,
+      "event": "已完成",
+      "evidence": "R42-1C"
+    },
+    {
+      "request": "R42",
+      "branch": "R42-1",
+      "owner": "联络台",
+      "day": 55,
+      "event": "转抄",
+      "evidence": "R42-1C"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-0",
+      "owner": "联络台",
+      "day": 50,
+      "event": "发出",
+      "evidence": "R43-0P"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-0",
+      "owner": "站0",
+      "day": 51,
+      "event": "接手",
+      "evidence": "R43-0H"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-0",
+      "owner": "站0",
+      "day": 53,
+      "event": "已完成",
+      "evidence": "R43-0C"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-0",
+      "owner": "联络台",
+      "day": 54,
+      "event": "转抄",
+      "evidence": "R43-0C"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-1",
+      "owner": "联络台",
+      "day": 50,
+      "event": "发出",
+      "evidence": "R43-1P"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-1",
+      "owner": "站1",
+      "day": 52,
+      "event": "接手",
+      "evidence": "R43-1H"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-1",
+      "owner": "站1",
+      "day": 54,
+      "event": "已完成",
+      "evidence": "R43-1C"
+    },
+    {
+      "request": "R43",
+      "branch": "R43-1",
+      "owner": "联络台",
+      "day": 55,
+      "event": "转抄",
+      "evidence": "R43-1C"
+    }
+  ],
+  "windows": [
+    {
+      "request": "R1",
+      "recipient": "家长",
+      "lo": 8,
+      "hi": 10,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R5",
+      "recipient": "家长",
+      "lo": 8,
+      "hi": 10,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R9",
+      "recipient": "家长",
+      "lo": 15,
+      "hi": 17,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R13",
+      "recipient": "家长",
+      "lo": 22,
+      "hi": 24,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R17",
+      "recipient": "家长",
+      "lo": 22,
+      "hi": 24,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R21",
+      "recipient": "家长",
+      "lo": 29,
+      "hi": 31,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R25",
+      "recipient": "家长",
+      "lo": 36,
+      "hi": 38,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R29",
+      "recipient": "家长",
+      "lo": 36,
+      "hi": 38,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R33",
+      "recipient": "家长",
+      "lo": 43,
+      "hi": 45,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R37",
+      "recipient": "家长",
+      "lo": 50,
+      "hi": 52,
+      "notified": "已通知",
+      "consent_day": null
+    },
+    {
+      "request": "R41",
+      "recipient": "家长",
+      "lo": 50,
+      "hi": 52,
+      "notified": "已通知",
+      "consent_day": null
+    }
+  ],
+  "pauses": [
+    {
+      "request": "R5",
+      "recipient": "家长",
+      "lo": 16,
+      "hi": 18,
+      "basis": "家庭已约"
+    },
+    {
+      "request": "R8",
+      "recipient": "学生",
+      "lo": 9,
+      "hi": 11,
+      "basis": "家庭已约"
+    }
+  ],
+  "source_gaps": [
+    {
+      "provider": "站1",
+      "start": 17,
+      "end": 20
+    },
+    {
+      "provider": "站0",
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "rebook_requests": [
+    {
+      "option": "Z1",
+      "request": "R5",
+      "recipient": "家长",
+      "lo": 9,
+      "hi": 13,
+      "new_owner": "站1",
+      "branch": "R5-1"
+    },
+    {
+      "option": "Z1",
+      "request": "R7",
+      "recipient": "家长",
+      "lo": 12,
+      "hi": 14,
+      "new_owner": "站1",
+      "branch": "R7-1"
+    },
+    {
+      "option": "Z2",
+      "request": "R8",
+      "recipient": "学生",
+      "lo": 11,
+      "hi": 14,
+      "new_owner": "站0",
+      "branch": "R8-1"
+    },
+    {
+      "option": "Z3",
+      "request": "R7",
+      "recipient": "家长",
+      "lo": 12,
+      "hi": 13,
+      "new_owner": "站1",
+      "branch": "R7-0"
+    }
+  ],
+  "amendments": [
+    {
+      "day": 23,
+      "request": "R5",
+      "new_join": "全部",
+      "source": "受理补记"
+    },
+    {
+      "day": 24,
+      "request": "R7",
+      "new_join": "全部",
+      "source": "受理补记"
+    }
+  ],
+  "capacity": [
+    {
+      "provider": "站1",
+      "lo": 8,
+      "hi": 15,
+      "optional_slots": 1
+    },
+    {
+      "provider": "站0",
+      "lo": 8,
+      "hi": 15,
+      "optional_slots": 1
+    }
+  ],
+  "shared_evidence": [
+    {
+      "request": "R4",
+      "evidence": "R5-0C"
+    },
+    {
+      "request": "R5",
+      "evidence": "R5-0C"
+    }
+  ],
+  "prerequisites": [
+    {
+      "earlier": "R7-0",
+      "later": "R7-1",
+      "minimum_gap": 1
+    },
+    {
+      "earlier": "R8-0",
+      "later": "R8-1",
+      "minimum_gap": 2
+    }
+  ],
+  "report_days": [
+    20,
+    27,
+    48
+  ]
+}
