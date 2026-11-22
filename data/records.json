@@ -718,17 +718,9 @@
       "request": "R5",
       "branch": "R5-1",
       "owner": "站1",
-      "day": 5,
-      "event": "已完成",
-      "evidence": "R5-1C"
-    },
-    {
-      "request": "R5",
-      "branch": "R5-1",
-      "owner": "联络台",
       "day": 6,
-      "event": "转抄",
-      "evidence": "R5-1C"
+      "event": "退回",
+      "evidence": "R5-1F"
     },
     {
       "request": "R6",
@@ -894,17 +886,9 @@
       "request": "R8",
       "branch": "R8-1",
       "owner": "站1",
-      "day": 12,
-      "event": "已完成",
-      "evidence": "R8-1C"
-    },
-    {
-      "request": "R8",
-      "branch": "R8-1",
-      "owner": "联络台",
       "day": 13,
-      "event": "转抄",
-      "evidence": "R8-1C"
+      "event": "退回",
+      "evidence": "R8-1F"
     },
     {
       "request": "R9",
@@ -1918,17 +1902,9 @@
       "request": "R25",
       "branch": "R25-0",
       "owner": "站0",
-      "day": 32,
-      "event": "已完成",
-      "evidence": "R25-0C"
-    },
-    {
-      "request": "R25",
-      "branch": "R25-0",
-      "owner": "联络台",
       "day": 33,
-      "event": "转抄",
-      "evidence": "R25-0C"
+      "event": "退回",
+      "evidence": "R25-0F"
     },
     {
       "request": "R25",
@@ -2126,17 +2102,9 @@
       "request": "R28",
       "branch": "R28-1",
       "owner": "站1",
-      "day": 33,
-      "event": "已完成",
-      "evidence": "R28-1C"
-    },
-    {
-      "request": "R28",
-      "branch": "R28-1",
-      "owner": "联络台",
       "day": 34,
-      "event": "转抄",
-      "evidence": "R28-1C"
+      "event": "退回",
+      "evidence": "R28-1F"
     },
     {
       "request": "R29",
