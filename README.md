@@ -14,3 +14,9 @@
 资料读取只需标准库。
 
 用 `python3 -m json.tool data/records.json` 查看原始记录。用 `python3 -m unittest discover -s tests -v` 核对演练资料的格式及关联。仓库目前只提供资料与输入核对，不提供业务分析结果。
+
+## 分析产物（第 37/38 周核对）
+
+- 结论与逐项核对见 `分析报告.md`（真实路径、批次/截点逾期、长尾、四本账、容量与试案、pilot 可比轮次、R5/R7 补记、事后验证）。
+- `relay_audit.py` 为仅用标准库的可复算引擎：`python3 -I relay_audit.py` 生成 `analysis/results.json` 与 `analysis/tables/*.csv`。
+- `tests/test_analysis_facts.py` 把关键结论固化为回归测试。新编表周更新 `data/records.json` 后重跑上述命令即可反复核对。
